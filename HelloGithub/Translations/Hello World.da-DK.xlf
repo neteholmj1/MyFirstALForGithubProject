@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Hello World">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3075650061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automotive</source>
+          <target>Automobil</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 143010134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fuel Type</source>
+          <target>Brændstof</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field Fuel Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 3647128553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer</source>
+          <target>Producent</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field Manufacturer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <target>Model</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3075650061 - Field 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <target>År</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Automotive - Field Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1559074781 - Control 1615783776 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies sales orders that are not yet posted or only partially posted.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Automotive Act. - Control Ongoing Sales Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1559074781 - Control 25536090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of sales in the current month excluding taxes.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Automotive Act. - Control Sales This Month - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3782029603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automation List</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Automotive List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3939119160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automotive</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Automotive Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 876187135 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip title</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AutomotiveReport - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 876187135 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip content</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AutomotiveReport - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1255613137 - Action 2846204132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Hello World</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListExt - Action HelloWorld - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4059097626 - Field 2272765270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>Total Automotives</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Automation Act. Ext - Field Total Automotives - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143010134 - EnumValue 1820646502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diesel</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Fuel Type - EnumValue Diesel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143010134 - EnumValue 2999244085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electric</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Fuel Type - EnumValue Electric - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143010134 - EnumValue 1337538192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gasoline</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Fuel Type - EnumValue Gasoline - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
